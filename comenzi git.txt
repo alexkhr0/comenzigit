@@ -1,0 +1,25 @@
+git clone 
+git init
+git add filename
+git add .
+git commit -m "Commit message"
+git status
+git branch
+git checkout branchname
+git checkout -b newbranchname
+git merge branchname
+git pull origin branchname
+git push origin branchname
+git remote -v
+git log
+git stash
+git tag tagname
+git fetch
+git reset
+git revert
+git config --global user.name 
+git config --global user.email 
+git remote add origin 
+git remote remove origin
+git remote set-url origin 
+git remote rename old-origin new-origin
